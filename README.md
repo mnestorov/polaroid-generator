@@ -4,7 +4,7 @@ A modern WordPress block plugin that creates beautiful polaroid-style photo gall
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.5+-blue.svg)
 ![License](https://img.shields.io/badge/License-GPL%20v2%2B-green.svg)
-![Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)
 
 ## 🎯 Features
 
