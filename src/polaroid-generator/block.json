@@ -2,11 +2,11 @@
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
 	"name": "create-block/polaroid-generator",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"title": "Polaroid Generator",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "A WordPress block that creates beautiful polaroid-style photo galleries with dynamic loading animations and customizable captions.",
 	"example": {},
 	"attributes": {
 		"photos": {
